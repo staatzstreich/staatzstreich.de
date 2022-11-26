@@ -149,7 +149,7 @@ export default function ResponsiveDialog() {
                   Nach dem Frühstück wird also eine grossangelegte Suchaktion eingeleitet.
                   Alle Zimmer werden auf den Kopf gestellt, sogar der Estrich und der Schlafkorb der Katze werden
                   durchwühlt. Aber das Jesuskind bleibt unauffindbar.
-                  In der Krippe wispern die Figuren aufgeregt mitein- ander. «Iah, iah! Denkt ihr, es hat geklappt?»,
+                  In der Krippe wispern die Figuren aufgeregt miteinander. «Iah, iah! Denkt ihr, es hat geklappt?»,
                   brummelt das Eselchen. «Sieht ganz danach aus.
                   Auf jeden Fall hat sie das verschwundene Jesuskind aus dem Trott herausgerissen»,
                   gibt Josef zur Antwort und beobachtet nachdenklich die Menschen-Familie, die ratlos auf dem Sofa
@@ -181,7 +181,7 @@ export default function ResponsiveDialog() {
               </p>
               <p>
                   Der Tag vergeht, und bald dämmert es. Voller Vorfreude, dass sie nun bald das Jesuskind finden werden,
-                  zieht das Mädchen ihre Eltern und den Bruder ins Wohnzim- mer. Die Kerzen am Weihnachtsbaum werden
+                  zieht das Mädchen ihre Eltern und den Bruder ins Wohnzimmer. Die Kerzen am Weihnachtsbaum werden
                   entzündet, und nun kommt doch festliche Stimmung auf.
                   Die Familie lässt sich von der Freude des Mädchens anstecken und singt fröhlich – und etwas
                   schief – ihre traditionellen Weihnachtslieder.
