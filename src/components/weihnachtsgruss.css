@@ -1,0 +1,9 @@
+.box1 {
+    border-radius: 10px;
+    transform: rotate(-20deg);
+}
+
+.box2 {
+    border-radius: 10px;
+    transform: rotate(20deg);
+}
