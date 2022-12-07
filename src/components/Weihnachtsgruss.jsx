@@ -5,14 +5,14 @@ import ModalImage from "react-modal-image";
 import "./weihnachtsgruss.css";
 
 import background from "../img/bg.jpg";
-import Weihnachten2021_1 from '../img/Weihnachten2021_1.png'
-import Weihnachten2021_1_thumb from '../img/Weihnachten2021_1_thumb.png'
-import Weihnachten2021_2 from '../img/Weihnachten2021_2.png'
-import Weihnachten2021_2_thumb from '../img/Weihnachten2021_2_thumb.png'
-import Weihnachten2021_3 from '../img/Weihnachten2021_3.png'
-import Weihnachten2021_3_thumb from '../img/Weihnachten2021_3_thumb.png'
-import Weihnachten2021_4 from '../img/Weihnachten2021_4.png'
-import Weihnachten2021_4_thumb from '../img/Weihnachten2021_4_thumb.png'
+import Weihnachten_1 from '../img/Weihnachten_1.png'
+import Weihnachten_1_thumb from '../img/Weihnachten_1_thumb.png'
+import Weihnachten_2 from '../img/Weihnachten_2.png'
+import Weihnachten_2_thumb from '../img/Weihnachten_2_thumb.png'
+import Weihnachten_3 from '../img/Weihnachten_3.png'
+import Weihnachten_3_thumb from '../img/Weihnachten_3_thumb.png'
+import Weihnachten_4 from '../img/Weihnachten_4.png'
+import Weihnachten_4_thumb from '../img/Weihnachten_4_thumb.png'
 
 let theme = createTheme();
 theme = responsiveFontSizes(theme);
@@ -34,15 +34,15 @@ const Weihnachtsgruss = () => {
                 </Box>
                 <Box sx={{ display: 'flex', justifyContent: 'space-around'}}>
                     <ModalImage
-                        small={Weihnachten2021_1_thumb}
-                        large={Weihnachten2021_1}
-                        alt="Weihnachten2021_1"
+                        small={Weihnachten_1_thumb}
+                        large={Weihnachten_1}
+                        alt="Weihnachten_1"
                         className="box1"
                     />
                     <ModalImage
-                        small={Weihnachten2021_2_thumb}
-                        large={Weihnachten2021_2}
-                        alt="Weihnachten2021_2"
+                        small={Weihnachten_2_thumb}
+                        large={Weihnachten_2}
+                        alt="Weihnachten_2"
                         className="box2"
                     />
                 </Box>
@@ -51,15 +51,15 @@ const Weihnachtsgruss = () => {
                 </Box>
                 <Box sx={{ display: 'flex', justifyContent: 'space-around'}}>
                     <ModalImage
-                        small={Weihnachten2021_3_thumb}
-                        large={Weihnachten2021_3}
-                        alt="Weihnachten2021_3"
+                        small={Weihnachten_3_thumb}
+                        large={Weihnachten_3}
+                        alt="Weihnachten_3"
                         className="box2"
                     />
                     <ModalImage
-                        small={Weihnachten2021_4_thumb}
-                        large={Weihnachten2021_4}
-                        alt="Weihnachten2021_4"
+                        small={Weihnachten_4_thumb}
+                        large={Weihnachten_4}
+                        alt="Weihnachten_4"
                         className="box1"
                     />
                 </Box>
