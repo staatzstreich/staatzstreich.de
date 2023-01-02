@@ -2,6 +2,7 @@ import React from "react";
 import ResponsiveAppBar from './ResponsiveAppBar';
 import { Box, Typography } from "@mui/material";
 import { createTheme, responsiveFontSizes, ThemeProvider } from '@mui/material/styles';
+import TYPO3CommunityMember from "../img/Association_Community.svg";
 
 let theme = createTheme();
 theme = responsiveFontSizes(theme);
@@ -58,6 +59,11 @@ const Home = () => {
                 <ThemeProvider theme={theme}>
                     {links.map( (data) => MyTypography(data.link, data.text) )}
                 </ThemeProvider>
+                <img
+                    alt="TYPO3 Community Member Badge"
+                    src={TYPO3CommunityMember}
+                    style={{ width: 150, paddingTop: 20, paddingRight: 10 }}
+                />
             </Box>
         </React.Fragment>
     );
